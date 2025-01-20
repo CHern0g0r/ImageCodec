@@ -6,3 +6,6 @@ pybind11==2.13.1
 setuptools==69.5.1
 scikit-image
 tensorflow==2.16.2
+torch==2.5.1+cpu
+torchaudio==2.5.1+cpu
+torchvision==0.20.1+cpu
